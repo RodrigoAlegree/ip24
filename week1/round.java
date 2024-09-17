@@ -1,3 +1,3 @@
 int round(double n) {
-    return (int) (n + 1);
+    return (int)( n + 0.5) ;
 }
